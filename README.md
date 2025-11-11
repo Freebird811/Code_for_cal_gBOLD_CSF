@@ -2,8 +2,7 @@
 Minimal MATLAB example for computing gBOLD–CSF coupling
 # gBOLD–CSF Coupling Demo
 
-This repository provides a minimal MATLAB implementation of the gBOLD–CSF coupling analysis, based on the method described by Fultz et al. (Science, 2019), and utilized in our ongoing study submitted to Brain Communications (Zhang et al., 2025).
-
+This repository provides a minimal MATLAB implementation of the gBOLD–CSF coupling analysis, based on the method described by Fultz et al. (Science, 2019)
 ---
 
 ## 📂 Files
